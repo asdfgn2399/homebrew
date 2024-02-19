@@ -1,0 +1,967 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "SPCM",
+				"abbreviation": "SPCM",
+				"full": "Sandy Petersen's Cthulhu Mythos",
+				"url": "https://drive.google.com/file/d/1bALMl4yoLR7CQdVD0OaAVQRJITvAUkUB/view",
+				"authors": [
+					"Sandy Petersen",
+					"James Jacobs",
+					"Arthur Petersen",
+					"Ian Starcher",
+					"David N. Ross"
+				],
+				"convertedBy": [
+					"asdfgn2399"
+				],
+				"version": "1.0",
+				"dateReleased": "2018-01-01"
+			}
+		],
+		"dateAdded": 1708320084,
+		"dateLastModified": 1708320084
+	},
+	"book": [
+		{
+			"name": "Sandy Petersen's Cthulhu Mythos",
+			"source": "SPCM",
+			"id": "SPCM",
+			"author": "Sandy Petersen",
+			"group": "homebrew",
+			"published": "2018-01-01",
+			"coverUrl": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SPCM/Cover.png",
+			"contents": [
+				{
+					"name": "Using This Book",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 1
+					},
+					"headers": [
+						{
+							"header": "What is the Cthulhu Mythos?"
+						},
+						{
+							"header": "Bringing Horror to Heroic Fantasy"
+						}
+					]
+				},
+				{
+					"name": "Mythos Player Character Races",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 2
+					},
+					"headers": [
+						{
+							"header": "Dreamlands Cat"
+						},
+						{
+							"header": "Ghoul"
+						},
+						{
+							"header": "Gnorri"
+						},
+						{
+							"header": "Zoog"
+						},
+						{
+							"header": "Otherworldly Humans"
+						}
+					]
+				},
+				{
+					"name": "Player Character Options",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 3
+					},
+					"headers": [
+						{
+							"header": "Class Options for Mythos Races"
+						},
+						{
+							"header": "Dreamlands Cat"
+						},
+						{
+							"header": "Ghoul"
+						},
+						{
+							"header": "Gnorri"
+						},
+						{
+							"header": "Zoog"
+						}, 
+						{
+							"header": "Other Class Options"
+						},
+						{
+							"header": "Barbarian Primal Path"
+						},
+						{
+							"header": "Bardic College"
+						},
+						{
+							"header": "Cleric Divine Domains"
+						},
+						{
+							"header": "Druid Circles"
+						},
+						{
+							"header": "Fighter Martial Archetype"
+						},
+						{
+							"header": "Paladin Oath"
+						},
+						{
+							"header": "Roguish Archetypes"
+						},
+						{
+							"header": "Trapsetter Traps"
+						},
+						{
+							"header": "Sorcerous Origins"
+						},
+						{
+							"header": "Warlock Options"
+						},
+						{
+							"header": "Wizard Arcane Tradition"
+						},
+						{
+							"header": "Backgrounds"
+						},
+						{
+							"header": "Alienist"
+						},
+						{
+							"header": "Mythos Cultist"
+						},
+						{
+							"header": "Mythos Survivor"
+						},
+						{
+							"header": "Visionary"
+						},
+						{
+							"header": "New Feats"
+						}
+					]
+				},
+				{
+					"name": "Insanity and Dread",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 4
+					},
+					"headers": [
+						{
+							"header": "Dread and Insanity"
+						},
+						{
+							"header": "Dread"
+						},
+						{
+							"header": "Insanity"
+						},
+						{
+							"header": "Ia! Ia! Cthulhu Fhtagn: An Aklo Primer"
+						},
+						{
+							"header": "The Dreamlands"
+						},
+						{
+							"header": "Normal Dreaming"
+						},
+						{
+							"header": "Dreamlands Travel"
+						}
+					]
+				},
+				{
+					"name": "Spellcasting in the Mythos",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 5
+					},
+					"headers": [
+						{
+							"header": "Formulas"
+						},
+						{
+							"header": "Spells"
+						},
+						{
+							"header": "Spell List Not Required"
+						},
+						{
+							"header": "Class Lists"
+						},
+						{
+							"header": "Spell Descriptions"
+						}
+					]
+				},
+				{
+					"name": "Mythos Items and Texts",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 6
+					},
+					"headers": [
+						{
+							"header": "Adventuring Gear"
+						},
+						{
+							"header": "Alien Technology and Magic Items"
+						},
+						{
+							"header": "Texts of the Cthulhu Mythos"
+						},
+						{
+							"header": "Text Descriptions"
+						}
+					]
+				},
+				{
+					"name": "Cults of the Mythos",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 7
+					},
+					"headers": [
+						{
+							"header": "Cult of the Black Goat"
+						},
+						{
+							"header": "Cult of the Crawling Chaos"
+						},
+						{
+							"header": "Coven of the Black Man"
+						},
+						{
+							"header": "Cult of the Haunter"
+						},
+						{
+							"header": "Cult of the Howler"
+						},
+						{
+							"header": "Cult of the Shadow Pharaoh"
+						},
+						{
+							"header": "Retinue of the Bloated Woman"
+						},
+						{
+							"header": "Seekers of the Dark Demon"
+						},
+						{
+							"header": "Cult of Great Cthulhu"
+						},
+						{
+							"header": "Cultic Madness of the Nuclear Chaos"
+						},
+						{
+							"header": "Cult of the Opener of the Way"
+						},
+						{
+							"header": "Cult of the Sleeper"
+						},
+						{
+							"header": "Cult of the Windwalker"
+						},
+						{
+							"header": "Cult of the Yellow Sign"
+						},
+						{
+							"header": "Lesser Cults"
+						},
+						{
+							"header": "Cult of Abhoth"
+						},
+						{
+							"header": "Cult of Atlach-Nacha"
+						},
+						{
+							"header": "Cult of the Water Lizard"
+						},
+						{
+							"header": "Cult of Byatis"
+						},
+						{
+							"header": "Cult of Chaugnar Faugn"
+						},
+						{
+							"header": "Cult of Cthugha"
+						},
+						{
+							"header": "Cult of Father Dagon and Mother Hydra"
+						},
+						{
+							"header": "Cult of Ghatanothoa"
+						},
+						{
+							"header": "Cult of Nyogtha"
+						},
+						{
+							"header": "Cult of the Green Flame"
+						},
+						{
+							"header": "Cult of Yig"
+						},
+						{
+							"header": "Tcho-tcho Culture"
+						},
+						{
+							"header": "Deep One Culture"
+						},
+						{
+							"header": "Mythos Entities and Religion"
+						},
+						{
+							"header": "Deep Ones"
+						},
+						{
+							"header": "Ghouls"
+						},
+						{
+							"header": "Fungi from Yuggoth"
+						},
+						{
+							"header": "Elder Things and the Great Race of Yith"
+						},
+						{
+							"header": "Moon-beasts"
+						},
+						{
+							"header": "Other Aliens"
+						},
+						{
+							"header": "Other Races and the Mythos"
+						},
+						{
+							"header": "Dragonborn"
+						},
+						{
+							"header": "Dwarves"
+						},
+						{
+							"header": "Elves"
+						},
+						{
+							"header": "Gnomes"
+						},
+						{
+							"header": "Goblinoids"
+						},
+						{
+							"header": "Halflings"
+						},
+						{
+							"header": "Humans"
+						},
+						{
+							"header": "Kobolds"
+						},
+						{
+							"header": "Lizardfolk"
+						},
+						{
+							"header": "Merfolk"
+						},
+						{
+							"header": "Orcs"
+						},
+						{
+							"header": "Tieflings"
+						}
+					]
+				},
+				{
+					"name": "Great Old Ones, Outer Gods, and Others",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 8
+					},
+					"headers": [
+						{
+							"header": "Reading an Elder Influence "
+						},
+						{
+							"header": "Stat Block"
+						},
+						{
+							"header": "Abhoth"
+						},
+						{
+							"header": "The Filth"
+						},
+						{
+							"header": "Atlach-Nacha"
+						},
+						{
+							"header": "Avatar of Atlach-Nacha"
+						},
+						{
+							"header": "Azathoth, the Daemon Sultan"
+						},
+						{
+							"header": "Bokrug, the Water Lizard"
+						},
+						{
+							"header": "The Ghosts of Ib"
+						},
+						{
+							"header": "Avatar of Bokrug"
+						},
+						{
+							"header": "Byatis, the Serpent-Bearded"
+						},
+						{
+							"header": "Avatar of Byatis"
+						},
+						{
+							"header": "Chaugnar Faugn  "
+						},
+						{
+							"header": "Avatar of Chaugnar Faugn"
+						},
+						{
+							"header": "Scion of Chaugnar Faugn"
+						},
+						{
+							"header": "Cthugha"
+						},
+						{
+							"header": "Father Dagon"
+						},
+						{
+							"header": "Father Dagon"
+						},
+						{
+							"header": "Ghatanothoa"
+						},
+						{
+							"header": "Rootling"
+						},
+						{
+							"header": "Ghroth, the Harbinger"
+						},
+						{
+							"header": "Worm of Ghroth"
+						},
+						{
+							"header": "Gobogeg, the Moon Ladder"
+						},
+						{
+							"header": "Great Cthulhu"
+						},
+						{
+							"header": "Hastur the Unspeakable"
+						},
+						{
+							"header": "Ithaqua"
+						},
+						{
+							"header": "The King in Yellow"
+						},
+						{
+							"header": "The King in Yellow"
+						},
+						{
+							"header": "Mother Hydra"
+						},
+						{
+							"header": "Mother Hydra"
+						},
+						{
+							"header": "Nyarlathotep, the Crawling Chaos"
+						},
+						{
+							"header": "The Bloated Woman"
+						},
+						{
+							"header": "The Dark Demon"
+						},
+						{
+							"header": "The Haunter of the Dark"
+						},
+						{
+							"header": "The Howler in Darkness"
+						},
+						{
+							"header": "The Shadow Pharaoh"
+						},
+						{
+							"header": "Nyogtha"
+						},
+						{
+							"header": "Nyogtha Body"
+						},
+						{
+							"header": "Quachil Uttaus"
+						},
+						{
+							"header": "Rhan-Tegoth"
+						},
+						{
+							"header": "Rhan-Tegoth"
+						},
+						{
+							"header": "Shub-Niggurath"
+						},
+						{
+							"header": "Tsathoggua, Father of Formless Spawn"
+						},
+						{
+							"header": "Avatar of Tsathoggua"
+						},
+						{
+							"header": "Tulzscha"
+						},
+						{
+							"header": "Ubbo-Sathla, the Tome Keeper"
+						},
+						{
+							"header": "Yig, Father of Snakes"
+						},
+						{
+							"header": "Avatar of Yig"
+						},
+						{
+							"header": "Yog-sothoth"
+						}
+					]
+				},
+				{
+					"name": "Mythos Monsters",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 9
+					},
+					"headers": [
+						{
+							"header": "Abyssal Custodian"
+						},
+						{
+							"header": "Bhole"
+						},
+						{
+							"header": "Bhole Hatchling"
+						},
+						{
+							"header": "Adult Bhole"
+						},
+						{
+							"header": "Brain Cylinder"
+						},
+						{
+							"header": "Scholar Brain Cylinder"
+						},
+						{
+							"header": "Sorcerer Brain Cylinder"
+						},
+						{
+							"header": "Control Drone"
+						},
+						{
+							"header": "Byakhee"
+						},
+						{
+							"header": "Cat, Dreamlands"
+						},
+						{
+							"header": "Dreamlands Cat, Saturnian"
+						},
+						{
+							"header": "Dreamlands Cat, Uranian"
+						},
+						{
+							"header": "Ulthar Champion"
+						},
+						{
+							"header": "Colour Out of Space"
+						},
+						{
+							"header": "Dark Young of Shub-Niggurath"
+						},
+						{
+							"header": "Adolescent Dark Young"
+						},
+						{
+							"header": "Adult Dark Young"
+						},
+						{
+							"header": "Mature Dark Young"
+						},
+						{
+							"header": "Deep One"
+						},
+						{
+							"header": "Deep One Bishop"
+						},
+						{
+							"header": "Deep One Hybrid Cultist"
+						},
+						{
+							"header": "Deep One Scion Priest of Cthulhu"
+						},
+						{
+							"header": "Dhole"
+						},
+						{
+							"header": "Dhole Hatchling"
+						},
+						{
+							"header": "Dhole Adult"
+						},
+						{
+							"header": "Dimensional Shambler"
+						},
+						{
+							"header": "Elder Thing"
+						},
+						{
+							"header": "Eremite (Mythos Wizard)"
+						},
+						{
+							"header": "Eremite Symbiont"
+						},
+						{
+							"header": "Dracoform Eremite Symbiont"
+						},
+						{
+							"header": "Dracoform-Bound Eremite"
+						},
+						{
+							"header": "Eye of the Watcher"
+						},
+						{
+							"header": "Favored One of Nyarlathotep "
+						},
+						{
+							"header": "(Million Favored Ones)"
+						},
+						{
+							"header": "Fire Vampire"
+						},
+						{
+							"header": "Flying Polyp"
+						},
+						{
+							"header": "Formless Spawn"
+						},
+						{
+							"header": "Ghast, Mythos"
+						},
+						{
+							"header": "Ghoul, Mythos"
+						},
+						{
+							"header": "Crypt Lurker"
+						},
+						{
+							"header": "Charnel Whisperer"
+						},
+						{
+							"header": "Grave Sage"
+						},
+						{
+							"header": "Gnoph-Keh"
+						},
+						{
+							"header": "Gnorri"
+						},
+						{
+							"header": "Gug"
+						},
+						{
+							"header": "Hound of Tindalos"
+						},
+						{
+							"header": "Hunting Horror"
+						},
+						{
+							"header": "Leng Folk"
+						},
+						{
+							"header": "Leng Folk Thief"
+						},
+						{
+							"header": "Leng Necromancer"
+						},
+						{
+							"header": "Leng Spider"
+						},
+						{
+							"header": "Web Traps"
+						},
+						{
+							"header": "Old Leng Spider"
+						},
+						{
+							"header": "Mi-go, the Fungi from Yuggoth"
+						},
+						{
+							"header": "Mi-go Scout"
+						},
+						{
+							"header": "Mi-go Warrior"
+						},
+						{
+							"header": "Mi-go Dimension Walker"
+						},
+						{
+							"header": "Moon-beast"
+						},
+						{
+							"header": "Moon-priest of Nyarlathotep"
+						},
+						{
+							"header": "Moon-vassal of Nyarlathotep"
+						},
+						{
+							"header": "Nightgaunt"
+						},
+						{
+							"header": "Outer Mutant, Abomination, and Spawn"
+						},
+						{
+							"header": "Outer Mutant Scout"
+						},
+						{
+							"header": "Outer Mutant Priest of Yog-sothoth"
+						},
+						{
+							"header": "Thrall of Yog-Sothoth"
+						},
+						{
+							"header": "Outer Abomination"
+						},
+						{
+							"header": "Outer Spawn"
+						},
+						{
+							"header": "Re-animated"
+						},
+						{
+							"header": "Re-animated Laborer"
+						},
+						{
+							"header": "Re-animated Guard"
+						},
+						{
+							"header": "Re-animated Raider"
+						},
+						{
+							"header": "Satyr, Mythos"
+						},
+						{
+							"header": "High Priest of Shub-Niggurath"
+						},
+						{
+							"header": "Serpentfolk"
+						},
+						{
+							"header": "Serpentfolk"
+						},
+						{
+							"header": "Serpentfolk Alchemist"
+						},
+						{
+							"header": "Servitor of the Outer Gods"
+						},
+						{
+							"header": "Shantak"
+						},
+						{
+							"header": "Shoggoth"
+						},
+						{
+							"header": "Shoggoth, Proto-"
+						},
+						{
+							"header": "Shub-Niggurath, Daughter of"
+						},
+						{
+							"header": "Slime Mold"
+						},
+						{
+							"header": "Slime Mold"
+						},
+						{
+							"header": "Immature Slime Mold"
+						},
+						{
+							"header": "Star Vampire"
+						},
+						{
+							"header": "Starspawn"
+						},
+						{
+							"header": "Larval Starspawn"
+						},
+						{
+							"header": "Tcho-tcho"
+						},
+						{
+							"header": "Okkator Assassin"
+						},
+						{
+							"header": "Masked Okkator"
+						},
+						{
+							"header": "Un-man"
+						},
+						{
+							"header": "Undead, Mythos"
+						},
+						{
+							"header": "Yellow Sign Attendant"
+						},
+						{
+							"header": "Deathless Wizard"
+						},
+						{
+							"header": "Risen Warlock"
+						},
+						{
+							"header": "Voonith"
+						},
+						{
+							"header": "Wamp"
+						},
+						{
+							"header": "Wendigo"
+						},
+						{
+							"header": "Ravenous Wendigo"
+						},
+						{
+							"header": "Windwalker"
+						},
+						{
+							"header": "Yith, Great Race of"
+						},
+						{
+							"header": "Past Yithian"
+						},
+						{
+							"header": "Future Yithian"
+						},
+						{
+							"header": "Yothans"
+						},
+						{
+							"header": "Yothan Warrior"
+						},
+						{
+							"header": "Yothan Designer"
+						},
+						{
+							"header": "Yothan Commander"
+						},
+						{
+							"header": "Draconic Amalgam"
+						},
+						{
+							"header": "Zoog"
+						},
+						{
+							"header": "Grove Keeper"
+						},
+						{
+							"header": "Zoog Trapper"
+						}
+					]
+				},
+				{
+					"name": "Nonplayer Characters",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": 1
+					},
+					"headers": [
+						{
+							"header": "Blessed Berserker"
+						},
+						{
+							"header": "Cult Killer"
+						},
+						{
+							"header": "Cult Mastermind"
+						},
+						{
+							"header": "Obsessed Artist"
+						},
+						{
+							"header": "Urbane Magician"
+						},
+						{
+							"header": "Witch of the Woods"
+						}
+					]
+				},
+				{
+					"name": "Encounter Tables",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": 2
+					},
+					"headers": [
+						{
+							"header": "Aliens"
+						},
+						{
+							"header": "Ancient Past"
+						},
+						{
+							"header": "Dreamlands and Plateau"
+						},
+						{
+							"header": "Hill Country"
+						},
+						{
+							"header": "Poles"
+						},
+						{
+							"header": "Sea and Coast"
+						},
+						{
+							"header": "Underground"
+						},
+						{
+							"header": "Urban Areas"
+						}
+					]
+				},
+				{
+					"name": "General Index"
+				},
+				{
+					"name": "Monsters by Challenge Rating"
+				},
+				{
+					"name": "Items/Artifacts"
+				}
+			]
+		}
+	],
+	"bookData": [
+		{
+			"source": "SPCM",
+			"id": "SPCM",
+			"data": [
+				{
+					"type": "section",
+					"name": "Chapter 1: Using This Book",
+					"page": 1,
+					"entries": [
+						"To Be Continued ; )"
+					]
+				}
+			]
+		}
+	]
+}
